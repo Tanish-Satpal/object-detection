@@ -5,11 +5,11 @@ function q2(){
     window.location="img1.html";
 }
 function q3(){
-    window.location="img1.html";
+    window.location="img2.html";
 }
 function q4(){
-    window.location="img1.html";
+    window.location="img3.html";
 }
 function q5(){
-    window.location="img1.html";
+    window.location="img4.html";
 }
